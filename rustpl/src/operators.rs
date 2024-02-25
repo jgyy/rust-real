@@ -22,7 +22,3 @@ fn operators() {
 	let two_to_10 = 1 << 10;
 	println!("2^10 = {}", two_to_10);
 }
-
-fn main() {
-	scope_and_shadowing();
-}
