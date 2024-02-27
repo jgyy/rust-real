@@ -3,7 +3,6 @@
 #![allow(unused_imports)]
 #![allow(unused_must_use)]
 
-// use rand::Rng;
 use std::io::stdin;
 
 enum State {
@@ -49,8 +48,4 @@ fn ft_lock() {
 			}
 		}
 	}
-}
-
-fn main() {
-	ft_lock();
 }
