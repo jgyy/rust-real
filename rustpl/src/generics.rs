@@ -19,7 +19,3 @@ fn ft_generics() {
 
 	let myline = Line { start: a, end: b };
 }
-
-fn main() {
-	ft_generics();
-}
